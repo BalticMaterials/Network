@@ -1,7 +1,7 @@
 import os 
 import subprocess
 
-hostname ="8.8.8.8"
+hostname ="192.168.178.100"
 #response = os.system("ping -c 1 " + hostname)
 #response = os.system("ping -c 1 -w 2 " + hostname + " > /dev/null 2>&1")
 #subprocess.run(["ping ", "-c ","1 ",hostname])
