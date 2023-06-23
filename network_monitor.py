@@ -16,13 +16,13 @@ def ping():
     # <except> part will be executed
     try:
         socket.setdefaulttimeout(3)
- 
-        # AF_INET: address family (IPv4)
-        # SOCK_STREAM: type for TCP (PORT)
+        
+        #AF_INET: addressfamily(IPv4) 
+        #SOCK_STREAM: type for TCP (PORT)
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
          
-        host = "8.8.8.8"
-        port = 53
+        host = "192.168.178.101"
+        port = 5560
  
         server_address = (host, port)
          
@@ -71,7 +71,7 @@ def first_check():
     # if ping returns false
     else:
         not_live = "\nCONNECTION NOT ACQUIRED\n"
-        print(not_live)
+        print("not_live")
  
         # writes into the log file
         with open(LOG, "a") as file:
@@ -116,6 +116,7 @@ def main():
                 # writes into the log file
                 file.write("\n")
                 file.write(monitoring_date_time + "\n")
+                time.sleep(10)
  
     while True:
        
