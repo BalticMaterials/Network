@@ -8,7 +8,7 @@ LOG_FNAME = "network.log"
 FILE = os.path.join(os.getcwd(), LOG_FNAME)
 
 
-def send_ping_request(host="192.168.178.101", port=5560, timeout=3):
+def send_ping_request(host="192.168.178.100", port=5560, timeout=30):
     try:
         socket.setdefaulttimeout(timeout)
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)

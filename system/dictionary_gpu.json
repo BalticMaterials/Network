@@ -1,0 +1,10 @@
+{
+        "gpu_id": 0,
+        "gpu_name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+        "gpu_load": "0.0%",
+        "gpu_free_memory": "3955.0MB",
+        "gpu_used_memory": "21.0MB",
+        "gpu_total_memory": "4096.0MB",
+        "gpu_temperature": "42.0 \u00b0C",
+        "gpu_uuid": "GPU-fc5df423-e45c-eb0c-6f69-f74a7e760411"
+}

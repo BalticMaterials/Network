@@ -1,7 +1,7 @@
 import socket
 from cookieLED import callLED
 
-host = ''
+host = '192.168.178.100'
 port = 5560
 
 storedValue = "Yo, what's up?"

@@ -20,9 +20,10 @@ def ping():
         #AF_INET: addressfamily(IPv4) 
         #SOCK_STREAM: type for TCP (PORT)
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-         
-        host = "192.168.178.101"
-        port = 5560
+
+        host = "212.51.16.1"
+
+        port = 65432
  
         server_address = (host, port)
          

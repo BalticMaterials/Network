@@ -1,0 +1,142 @@
+{
+             "System": "Windows",
+             "Messurment Time": "2023-06-25 11:53:38.737400",
+             "Node Name": "LAPTOP-B9EBITL3",
+             "Boot Time": "2023-06-25 11:09:58.524482",
+             "CPU: Current Frequency": "10.5",
+             "CPU: Usage Per Core: ": "10.5",
+             "CPU: Total CPU Usage": "0.0",
+             "Memory: Used": "7.99GB",
+             "Memory: Percentage ": "33.7%",
+             "Disk Used ": "40.10GB",
+             "Disk Free ": "8.72GB",
+             "Disk Percentage ": "82.1%",
+             "Network Information": {
+                          "Ethernet 10": [
+                                       [
+                                                    -1,
+                                                    "00-FF-E9-32-58-7D",
+                                                    null,
+                                                    null,
+                                                    null
+                                       ],
+                                       [
+                                                    2,
+                                                    "169.254.59.161",
+                                                    "255.255.0.0",
+                                                    null,
+                                                    null
+                                       ],
+                                       [
+                                                    23,
+                                                    "fe80::d33e:d1a0:33a1:2a1d",
+                                                    null,
+                                                    null,
+                                                    null
+                                       ]
+                          ],
+                          "Ethernet": [
+                                       [
+                                                    -1,
+                                                    "50-EB-F6-48-5E-C5",
+                                                    null,
+                                                    null,
+                                                    null
+                                       ],
+                                       [
+                                                    2,
+                                                    "169.254.181.155",
+                                                    "255.255.0.0",
+                                                    null,
+                                                    null
+                                       ]
+                          ],
+                          "LAN-Verbindung* 1": [
+                                       [
+                                                    -1,
+                                                    "14-85-7F-79-56-81",
+                                                    null,
+                                                    null,
+                                                    null
+                                       ],
+                                       [
+                                                    2,
+                                                    "169.254.80.197",
+                                                    "255.255.0.0",
+                                                    null,
+                                                    null
+                                       ]
+                          ],
+                          "LAN-Verbindung* 2": [
+                                       [
+                                                    -1,
+                                                    "16-85-7F-79-56-80",
+                                                    null,
+                                                    null,
+                                                    null
+                                       ],
+                                       [
+                                                    2,
+                                                    "169.254.156.184",
+                                                    "255.255.0.0",
+                                                    null,
+                                                    null
+                                       ]
+                          ],
+                          "Bluetooth-Netzwerkverbindung": [
+                                       [
+                                                    -1,
+                                                    "14-85-7F-79-56-84",
+                                                    null,
+                                                    null,
+                                                    null
+                                       ],
+                                       [
+                                                    2,
+                                                    "169.254.33.40",
+                                                    "255.255.0.0",
+                                                    null,
+                                                    null
+                                       ],
+                                       [
+                                                    23,
+                                                    "fe80::bdae:fbc1:42fb:1fe6",
+                                                    null,
+                                                    null,
+                                                    null
+                                       ]
+                          ],
+                          "WLAN": [
+                                       [
+                                                    -1,
+                                                    "14-85-7F-79-56-80",
+                                                    null,
+                                                    null,
+                                                    null
+                                       ],
+                                       [
+                                                    2,
+                                                    "10.5.210.149",
+                                                    "255.255.0.0",
+                                                    null,
+                                                    null
+                                       ]
+                          ],
+                          "Loopback Pseudo-Interface 1": [
+                                       [
+                                                    2,
+                                                    "127.0.0.1",
+                                                    "255.0.0.0",
+                                                    null,
+                                                    null
+                                       ],
+                                       [
+                                                    23,
+                                                    "::1",
+                                                    null,
+                                                    null,
+                                                    null
+                                       ]
+                          ]
+             }
+}

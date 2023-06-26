@@ -1,7 +1,7 @@
 import socket
 # 192.168.178.100
 host = '192.168.178.101'
-port = 9100
+port = 5560
 
 storedValue = "Yo, what's up?"
 

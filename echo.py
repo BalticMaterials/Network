@@ -2,7 +2,7 @@
 
 import socket
 
-HOST = "192.168.178.101"
+HOST = "212.51.16.1"
 # Standard loopback interface address (localhost)
 PORT =  65432
 #65432  # Port to listen on (non-privileged ports are > 1023)
